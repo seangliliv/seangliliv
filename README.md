@@ -89,6 +89,6 @@ Hi there! Welcome to my GitHub profile.
 
 <div align="center">
  
-*"First, solve the problem. Then, write the code." – John Johnson*
+*"Keep Working"*
 
 </div>
